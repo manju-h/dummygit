@@ -1,0 +1,3 @@
+a2
+
+to check indexed using git diff -cahced
